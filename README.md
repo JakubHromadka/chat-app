@@ -2,7 +2,9 @@
 
 ```sh
 git clone https://github.com/JakubHromadka/chat-app.git
+cd chat-app
 ```
+
 
 ```sh
 cd api
